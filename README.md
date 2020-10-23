@@ -14,7 +14,7 @@ h1   {color: whitesmoke;}
 </head>
 <body>
 <h1>
-<a href="http://https://chrislibjorn.github.io/school-stuff/filer/">link til projektside</a>
+<a href="https://chrislibjorn.github.io/school-stuff/filer/">link til projektside</a>
   </h1>
 </body>
 </html>
