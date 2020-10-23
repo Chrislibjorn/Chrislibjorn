@@ -6,9 +6,9 @@
 <html>
 <head>
 <style>
-{background-color:#404040}
-    </style>
-    </head>
-<body> 
-    </body>
+body {background-color: #404040;}
+</style>
+</head>
+<body>
+</body>
 </html>
