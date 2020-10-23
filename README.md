@@ -1,8 +1,4 @@
 # www.chrislibjorn.github.io
-
-
-[link til projektside1](https://chrislibjorn.github.io/school-stuff/filer/)
-
 <html>
 <head>
 <title>
