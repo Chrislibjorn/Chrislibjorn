@@ -1,10 +1,8 @@
-# www.chrislibjorn.github.io
-
 <html>
 <head>
 <title>
 <h1>
-chrislibjorn.github.io 
+chrislibjorn.projekter
 </h1>
 </title>
 <style>
@@ -14,7 +12,7 @@ h1   {color: whitesmoke;}
 </head>
 <body>
 <h1>
-<a href="https://chrislibjorn.github.io/school-stuff/filer/">link til projektside</a>
+<a href="https://chrislibjorn.github.io/school-stuff/filer/">link til projektside.1</a>
   </h1>
 </body>
 </html>
