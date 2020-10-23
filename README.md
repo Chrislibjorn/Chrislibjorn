@@ -1,4 +1,4 @@
-# chrislibjorn.github.io
+# Chrislibjorn.github.io
 ### Hi there 👋
 
 [link til projektside1](https://chrislibjorn.github.io/school-stuff/filer/)
