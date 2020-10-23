@@ -12,6 +12,6 @@ h1   {color: whitesmoke;}
 </style>
 </head>
 <body>
-  <button onclick="window.location.href='www.chrislibjorn.github.io/school-stuff/filer/'">projektside</button>
+  <button onclick="window.open('www.chrislibjorn.github.io/school-stuff/filer/','_blank'")>projektside</button>
 </body>
 </html>
