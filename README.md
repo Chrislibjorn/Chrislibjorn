@@ -6,7 +6,7 @@
 <html>
 <head>
 <style>
-body {background-color:#404040}
+{background-color:#404040}
     </style>
     </head>
 <body> 
